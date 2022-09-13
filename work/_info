@@ -1,0 +1,71 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Adam Cassie/Documents/ECE241/Final Project/MoveFSM191120196pm
+vcontrol
+Z1 !s110 1574220235
+!i10b 1
+!s100 [QGo?8A;FGaofDeHZgBd63
+IjocG4lSM6c^;jeK`<1aTQ3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1574206782
+Z4 8MoveFSM.v
+Z5 FMoveFSM.v
+L0 207
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1574220235.000000
+Z8 !s107 MoveFSM.v|
+Z9 !s90 -reportprogress|300|MoveFSM.v|
+!i113 1
+Z10 tCvgOpt 0
+vdatapath
+R1
+!i10b 1
+!s100 TjMSmclzMT`0zdkPmF2Ho3
+IUOCgL1mgRR:@T12NTXOAm2
+R2
+R0
+R3
+R4
+R5
+L0 59
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vMoveFSM
+R1
+!i10b 1
+!s100 M1S71545Zb_X^b@<OKGMe1
+IYNZbZd0mmLbLV8FA26ZmW0
+R2
+R0
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+n@move@f@s@m
